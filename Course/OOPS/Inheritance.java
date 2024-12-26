@@ -12,9 +12,15 @@ class Father extends GrandFather{
     }
 }
 
-class Son extends Father{
+class Son extends Father{ 
     public void son(){
         System.out.println("Son");
+    }
+}
+
+class Mother extends GrandFather{
+    public void mother(){
+        System.out.println("Mother");
     }
 }
 
@@ -37,7 +43,7 @@ public class Inheritance {
         d.daughter();
         d.father();
         d.grandFather();
-        
+
     }
 
     
