@@ -1,6 +1,9 @@
 package OOPS;
 
 class A{
+    public A(){
+        System.out.println("Constructor");
+    }
     void show(){
         System.out.println("Hello");
     }
@@ -19,9 +22,12 @@ public class Anonymous {
 
         // A obj ;
 
+        new A();
+        
+
         new A().show();
 
-        
+
     
     }
     
