@@ -18,6 +18,7 @@ public class FinalKeyWord {
     
     public static void main(String[] args) {
         
+        @SuppressWarnings("unused")
         final int x = 100;
         // The final keyword in java is used to restrict the user.
         // x=200; // error: cannot assign a value to final variable x
