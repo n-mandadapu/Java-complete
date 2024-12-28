@@ -1,5 +1,6 @@
 public class Literals {
     
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
 
         //literal integer
