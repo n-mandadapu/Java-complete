@@ -1,5 +1,6 @@
 public class TypeConversion {
 
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
     
         // conversion and casting

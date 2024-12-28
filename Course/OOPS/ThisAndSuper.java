@@ -55,6 +55,7 @@ public class ThisAndSuper {
         // this() is used to invoke current class constructor
 
         B obj = new B();
+        obj.show();
 
     }
     

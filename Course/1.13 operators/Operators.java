@@ -1,5 +1,6 @@
 public class Operators {
 
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         
         int myInt = 5;

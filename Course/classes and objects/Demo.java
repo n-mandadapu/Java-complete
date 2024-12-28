@@ -74,7 +74,7 @@ public class Demo {
 
         // set the values of the attributes
 
-        myCalculator.num1 = 5; // instance variables
+        myCalculator.num1 = myInt; // instance variables
         myCalculator.num2 = 3;
 
         // call the methods
